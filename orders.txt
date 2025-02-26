@@ -1,0 +1,12 @@
+Order ID: ccd7084f-5e6e-434a-bbdf-b249d4818475
+Customer: Razan
+Product ID: c6bc67e9-d45d-434c-8c42-7e6bc7b40cad
+Quantity: 5
+Status: DELIVERED
+-------------------------------
+Order ID: 3857a548-451b-43d3-b3be-921daf2a71a9
+Customer: Reham
+Product ID: e2f93808-428e-479c-82b5-f879411f7757
+Quantity: 8
+Status: DELIVERED
+-------------------------------
